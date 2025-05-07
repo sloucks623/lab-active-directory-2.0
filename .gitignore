@@ -1,0 +1,11 @@
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.ps1~
+*.iso
+*.vhd
+*.vhdx
+__pycache__/
+.DS_Store
