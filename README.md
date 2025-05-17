@@ -4,6 +4,10 @@ Advanced Active Directory lab expanding on the 1.0 build. This version introduce
 
 ---
 
+[My Portfolio](https://stevenloucks.tech) | [LinkedIn](https://www.linkedin.com/in/steven-loucks)
+
+---
+
 ## Lab Summary
 
 | Feature | Description |
@@ -36,14 +40,15 @@ Advanced Active Directory lab expanding on the 1.0 build. This version introduce
 
 ---
 
-[🔗 Return to My Portfolio](https://sloucks623.github.io)
-
----
 ## Notes
 
 - This lab is based on **Active Directory Lab 1.0**, with added depth
 - Screenshots and documentation follow WGU capstone documentation standards
 - PowerShell scripts are reusable and stored in `powershell/`
+
+---
+
+[🔗 Return to My Portfolio](https://sloucks623.github.io)
 
 ---
 
