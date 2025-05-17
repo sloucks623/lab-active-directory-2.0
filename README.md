@@ -36,6 +36,9 @@ Advanced Active Directory lab expanding on the 1.0 build. This version introduce
 
 ---
 
+[🔗 Return to My Portfolio](https://sloucks623.github.io)
+
+---
 ## Notes
 
 - This lab is based on **Active Directory Lab 1.0**, with added depth
