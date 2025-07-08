@@ -55,3 +55,5 @@ Advanced Active Directory lab expanding on the 1.0 build. This version introduce
 **Created by Steven Loucks – Cybersecurity Student & Navy Veteran**
 ---
 📋 **Professional Standards**: [ITIL 4 Service Management Compliance](./ITIL-4-COMPLIANCE.md) | **WGU BSCSIA Portfolio**
+---
+📋 **Professional Standards**: [ITIL 4 Service Management Compliance](./ITIL-4-COMPLIANCE.md) | **WGU BSCSIA Portfolio**
